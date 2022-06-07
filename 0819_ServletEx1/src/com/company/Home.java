@@ -71,6 +71,7 @@ public class Home extends HttpServlet {
 		out.println("안녕하세요,");
 		out.println(request.getParameter("name"));
 		out.println("님");
+	            out.println("님");out.println("님");out.println("님");
 		out.println("</body></html>");
 	}
 
