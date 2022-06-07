@@ -13,6 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Servlet implementation class Home
  */
+/////////////// 와우 대박
 
 // 이거는 web.xml에서 url-pattern 설정안했을때 사용되는듯 (같이쓰니 에러남)
 @WebServlet(urlPatterns ={"/hello","/hello1"}) // 애노테이션 설정으로 이 java파일(컨트롤러)로 올수있다
